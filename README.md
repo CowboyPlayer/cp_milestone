@@ -9,6 +9,8 @@
 
 BSC链
 
+官网: http://www.cowboyplayer.com
+
 TG-CN: https://t.me/CowboyCapital
 
 TG-EN: https://t.me/CowboyCapitalEN 
@@ -50,7 +52,8 @@ linkTree: https://linktr.ee/CowboyPlayer
 
 1. 2021-12-10 23:00:00 公平发射, 2BNB开盘
 2. 2021-12-11 完成锁池合约开发, 并使用自己的锁池合约锁定CP 6个月
-3. 待更新...
+3. 2021-12-15 完成官网第一版开发 http://www.cowboyplayer.com
+4. 待更新...
 
 
 

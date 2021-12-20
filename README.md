@@ -74,3 +74,6 @@ linkTree: https://linktr.ee/CowboyPlayer
 已经完成开发,测试,部署;
 
 目前的社区币 CP(CowboyPlayer) 就是使用该锁币合约
+
+## 敬请期待(swap, 跨链, 彩票, 链游等 )
+

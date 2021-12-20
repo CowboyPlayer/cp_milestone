@@ -65,7 +65,7 @@ linkTree: https://linktr.ee/CowboyPlayer
 
 
 
-![image-20211212105121009](res\cowboy_bot.png)
+![image-20211212105121009](https://github.com/CowboyPlayer/cp_milestone/blob/main/res/cowboy_bot.png?raw=true)
 
 
 

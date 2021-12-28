@@ -52,8 +52,9 @@ linkTree: https://linktr.ee/CowboyPlayer
 
 1. 2021-12-10 23:00:00 公平发射, 2BNB开盘
 2. 2021-12-11 完成锁池合约开发, 并使用自己的锁池合约锁定CP 6个月
-3. 2021-12-15 完成官网第一版开发 http://www.cowboyplayer.com
-4. 待更新...
+3. 2021-12-15 完成官网第一版开发 https://cowboyplayer.com
+4. 2021-12-25 完成锁池服务上线 https://cowboyplayer.com/dapp/
+5. 待更新...
 
 
 
@@ -69,11 +70,22 @@ linkTree: https://linktr.ee/CowboyPlayer
 
 
 
-## 牛仔锁币
+## 牛仔锁币/池
 
 已经完成开发,测试,部署;
 
-目前的社区币 CP(CowboyPlayer) 就是使用该锁币合约
+目前的社区币 CP(CowboyPlayer) 就是使用该锁币合约.
 
-## 敬请期待(swap, 跨链, 彩票, 链游等 )
+上线三天共识玩家锁定CP代币接近30亿(总流通量的 10%).
 
+另外已经部分项目在洽谈牛仔锁的使用.
+
+地址 https://cowboyplayer.com/dapp/
+
+![image-20211228153013683](C:\Users\xwl\Desktop\code\cp_milestone\res\locker.png)
+
+
+
+## 敬请期待(CP系统, swap, 跨链,NFT, DAO, 彩票, 链游等 )
+
+我们在持续开发产品, 不急(*^_^*)

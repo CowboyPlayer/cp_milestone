@@ -82,7 +82,9 @@ linkTree: https://linktr.ee/CowboyPlayer
 
 地址 https://cowboyplayer.com/dapp/
 
-![image-20211228153013683](C:\Users\xwl\Desktop\code\cp_milestone\res\locker.png)
+
+
+![image-20211228153013683](https://github.com/CowboyPlayer/cp_milestone/blob/main/res/locker.png?raw=true)
 
 
 
